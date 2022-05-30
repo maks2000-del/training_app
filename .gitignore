@@ -34,6 +34,7 @@
 /ios/runner/
 /Web/icons/
 /winuwp/
+/assets/
 
 # Web related
 lib/generated_plugin_registrant.dart
